@@ -16,3 +16,9 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+
+Preempt-rt Patch
+================
+This fork of the Raspberry Pi kernel has the preempt-rt patch applied. See
+the ``preempt-rt`` folder for the patch. 
