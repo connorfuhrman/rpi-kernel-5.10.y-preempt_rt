@@ -21,4 +21,9 @@ the problems which may result by upgrading your kernel.
 Preempt-rt Patch
 ================
 This fork of the Raspberry Pi kernel has the preempt-rt patch applied. See
-the ``preempt-rt`` folder for the patch. 
+the ``preempt-rt`` folder for the patch.
+
+
+Precompiled
+===============
+In the ``precompiled`` directory there are various precompiled archives. 
